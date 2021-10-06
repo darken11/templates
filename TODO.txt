@@ -1,0 +1,11 @@
+
+  -----Etapes pour creation template pro-----
+
+1) Ecrire un projet avec 2 folders>> image, css et un index
+2) Dans l'html>> ajouter la ligne pour css.
+              >> ajouter la ligne pour normalize(sert faire fonctioner ton site sur tt les navigateurs possible)
+              >> ajouter la ligne pour le font necessaire via le site googleFont on ajouter le lien de font.
+			  >> ajouter la ligne pour le font awsome apres qu'on ajoute le dossier webfont a coté de dossier 
+			     css et on ajouter le all.min.css dans le dossier css.
+			  
+			  
